@@ -47,4 +47,4 @@ The Medusa Giftcard Plugin is a Plugin for the Medusa Admin dashboard. It provid
 ## Contributing
 
 I welcome contributions and feedback.
-To get involved, [open an issue](https://github.com/Agilo/medusa-analytics-plugin/issues) or [submit a pull request](https://github.com/Agilo/medusa-analytics-plugin/pulls) on [GitHub →](https://github.com/Agilo/medusa-analytics-plugin)
+To get involved, [open an issue](https://github.com/ujjawal-04/medusa-analytics-plugin/issues) or [submit a pull request](https://github.com/ujjawal-04/medusa-analytics-plugin/pulls) on [GitHub →](https://github.com/ujjawal-04/medusa-analytics-plugin)
