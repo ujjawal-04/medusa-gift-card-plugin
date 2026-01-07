@@ -19,9 +19,12 @@ The Medusa Giftcard Plugin is a Plugin for the Medusa Admin dashboard. It provid
 ## Getting Started
 
 1. **Install the plugin** in your Medusa project:
-   ```bash
-   yarn add my-giftcard-plugin
-   ```
+   
+```bash
+npm install customer-analytics-plugin
+# or
+yarn add customer-analytics-plugin
+```
 2. **Add the plugin** to your Medusa backend configuration. In `medusa-config.ts`, add the following to the `plugins` array:
 
    ```js
