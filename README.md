@@ -47,6 +47,11 @@ yarn add customer-analytics-plugin
    ```
 5. **Access the Giftcard page** from the Medusa Admin dashboard.
 
+Usage
+Once installed and configured, the plugin will:
+
+Automatically display a "Giftcard" widget in the Medusa admin extensions.
+
 ## Contributing
 
 I welcome contributions and feedback.
